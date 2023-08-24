@@ -1,10 +1,12 @@
-# externallauncher
-an external roblox launcher.
+$ murda
 
-make sure to turn off your anti virus (false positive)
-make sure to launch it before Roblox (you must have Roblox installed first)
+this is still in beta.
 
-(NOTE)
-your fps WILL be capped at 600 (basically a free fps unlocker lol)
+this will get future updates.
 
-this will get future updates 
+your Roblox has to be installed first.
+
+launch before Roblox.
+
+I don't have any public socials.
+
